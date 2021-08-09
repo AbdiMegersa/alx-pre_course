@@ -1,1 +1,1 @@
-this is the repo session project.
+This is git project.
